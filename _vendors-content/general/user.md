@@ -1,8 +1,9 @@
 ---
 manufacturer:
     - general
----
-
+adb shell
+dumpsys deviceidle disable
+pm uninstall --user 0 com.useless.piece.of.trash
 ### Android 6+
 
 Always check the following setting:
