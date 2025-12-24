@@ -1,7 +1,7 @@
 ---
 manufacturer:
     - general
----
+    dumpsys deviceidle disable
 
 ### Android 6+
 
