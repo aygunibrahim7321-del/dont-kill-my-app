@@ -1,4 +1,5 @@
----
+
+dumpsys deviceidle disable-
 manufacturer:
     - general
 ---
